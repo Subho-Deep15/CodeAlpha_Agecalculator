@@ -72,9 +72,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact us at [sujitmahapatra2506@gmail.com](mailto:sujitmahapatra2506@gmail.com).
+If you have any questions or feedback, feel free to contact us at [subhodeepkirtuniyadgpe5678@gmail.com](mailto:subhodeepkirtuniyadgpe5678@gmail.com).
 
 Thank you for using the Age Calculator using JavaScript!
 
 ---
-© 2023 Mr. Sujit
+© 2024 Subhodeep Kirtuniya
